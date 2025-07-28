@@ -1,3 +1,5 @@
+//Licensed under MIT license. See license file in the `Resources` directory for more information.
+
 (function (global, factory) {
   typeof exports === 'object' && typeof module !== 'undefined' ? factory(exports) :
   typeof define === 'function' && define.amd ? define(['exports'], factory) :
